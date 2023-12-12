@@ -1,0 +1,25 @@
+.task-one {
+    background-color: lightcoral;
+    font-size: 25px;
+}
+
+#task-two{
+    color: blue;
+    font-size: 50px;
+}
+
+.task-three {
+    background-color: lightcoral;
+    font-size: 40px;
+}
+
+#task-four{
+    background-color: green;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.task-five{
+    background-color: lightcoral;
+    font-size: 25px;
+}
