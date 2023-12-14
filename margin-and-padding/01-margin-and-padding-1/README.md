@@ -12,3 +12,6 @@ Use this section to check your work. On _these_ projects, your goal isn't to att
 - There is a 48px gap between Div Two and Div Three.
 - Div Three is aligned to the right.
 - Div Three's alignment is achieved using `margin` (and not float, flexbox, etc.).
+
+  UPDATE: Finished task
+  ![image](https://github.com/sr781/css-exercises/assets/96390217/0c2cfc0d-9080-4fa9-add7-ce8dc4a65dc8)
